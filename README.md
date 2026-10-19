@@ -69,6 +69,7 @@ The dataset and evaluation period are historical. Forecast accuracy on current o
 ## Project Structure
 
 ```text
+
 profitos-decision-engine/
 ├── app/
 │   └── app.py
@@ -77,12 +78,17 @@ profitos-decision-engine/
 │   ├── processed/
 │   └── warehouse/
 ├── reports/
+├── screenshots/
+│   ├── dashboard.png
+│   ├── forecasting.png
+│   └── scenario-simulator.png
 ├── src/
 │   └── profitos/
 ├── tests/
 │   └── test_profit_os.py
 ├── requirements.txt
 └── README.md
+
 ```
 
 ## Setup
