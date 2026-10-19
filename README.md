@@ -2,6 +2,19 @@
 
 ProfitOS is a data analytics and decision-support portfolio project built with Python, SQL, DuckDB, and Streamlit. It analyzes e-commerce performance, evaluates forecasting methods, and presents business insights through an interactive dashboard.
 
+## Dashboard Preview
+
+### Main Dashboard
+![ProfitOS main dashboard](screenshots/dashboard.png)
+
+### Sales Forecasting
+![Historical sales and forecast chart](screenshots/forecasting.png)
+
+### Business Scenario Simulator
+![ProfitOS business scenario simulator](screenshots/scenario-simulator.png)
+
+
+
 ## Key Features
 
 - Monthly business KPI analysis
