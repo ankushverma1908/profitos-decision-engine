@@ -1,0 +1,7 @@
+check_name,issue_count
+duplicate_order_ids,0
+missing_payment_order_ids,0
+negative_payment_values,0
+payments_without_matching_order,0
+items_without_matching_order,0
+items_with_negative_price_or_freight,0
