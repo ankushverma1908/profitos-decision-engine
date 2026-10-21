@@ -29,7 +29,8 @@ Thumbs.db
 *.db
 # Raw and processed datasets
 data/raw/
-data/processed/
+data/processed/*
+!data/processed/order_business_summary.parquet
 
 # Local analytical warehouse
 data/warehouse/
@@ -38,7 +39,8 @@ data/warehouse/
 !data/README.md
 # Local datasets
 data/raw/
-data/processed/
+data/processed/*
+!data/processed/order_business_summary.parquet
 
 # Keep a placeholder README in data if needed
 !data/README.md
